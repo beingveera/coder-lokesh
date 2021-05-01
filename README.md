@@ -1,5 +1,5 @@
 ## Hey 👋, This is Lokesh Sharma...
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sharma.lokesh.222001@gmail.com)](mailto:sharma.lokesh.222001@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sharma.lokesh.222001@gmail.com)]
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdlen-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokesh-sharma-908857193/)](https://www.linkedin.com/in/lokesh-sharma-908857193/)
 
