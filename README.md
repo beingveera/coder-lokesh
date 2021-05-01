@@ -13,7 +13,7 @@ I am having keen interest in data science. And also have a good experience to wo
 Always available for projects and creative things...
 Always be happy to help others.. </p>
 
-<p align='left'> You can view my resume <a href='lokesh-resume.web.app' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view my resume <a href='www.lokesh-resume.web.app' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=coder-lokesh alt=coder-lokesh/> </p>
 
