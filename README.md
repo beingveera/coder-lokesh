@@ -13,9 +13,9 @@ I am having keen interest in data science. And also have a good experience to wo
 Always available for projects and creative things...
 Always be happy to help others.. </p>
 
-<p align='left'> You can view my resume <a href='/www.lokesh-resume.web.app' target=_blank><u>here</u>.</a></p>
+
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=coder-lokesh alt=coder-lokesh/> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=coder-lokesh alt=coder-lokesh/></p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=coder-lokesh&show_icons=true&include_all_commits=true)](https://github.com/coder-lokesh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-lokesh&layout=compact)](https://github.com/coder-lokesh/github-readme-stats)
