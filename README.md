@@ -13,6 +13,11 @@
 
 - 📫 How to reach me **Insta @_veera2k_**
 
+<p align="center">
+  <a href="https://github.com/coder-lokesh/Notepad">
+    <img src="my.png" alt="Logo" width="700" height="600">
+  </a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lokeshs97047988" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round-line-color.svg" alt="priyasaaketh" height="30" width="40" /></a>
