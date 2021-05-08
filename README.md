@@ -16,7 +16,9 @@
 <p align="center">
   <a href="https://github.com/coder-lokesh/Notepad">
     <img src="my.png" alt="Logo" width="200" height="200">
-      <img src="ElectroCode.png" alt="Logo" width="200" height="200">
+    <img src="ElectroCode.png" alt="Logo" width="200" height="200">
+    <img src="electrocode (1).png" alt="Logo" width="200" height="200">
+    
   </a></p>
 
 <h3 align="left">Connect with me:</h3>
