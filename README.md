@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/coder-lokesh/Notepad">
-    <img src="my.png" alt="Logo" width="700" height="600">
+    <img src="my.png" alt="Logo" width="200" height="200">
   </a></p>
 
 <h3 align="left">Connect with me:</h3>
