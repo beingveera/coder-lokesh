@@ -14,7 +14,7 @@
 - 📫 How to reach me **Insta @_veera2k_**
 
 <p align="center">
-  <a href="https://github.com/coder-lokesh/Notepad">
+  <a href="https://github.com/coder-lokesh/coder-lokesh">
     <img src="my.png" alt="Logo" width="200" height="200">
     <img src="ElectroCode.png" alt="Logo" width="200" height="200">
     <img src="electrocode (1).png" alt="Logo" width="200" height="200">
