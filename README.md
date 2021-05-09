@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Lokesh Sharma👋</h1>
-<h3 align="center">2 ⭐ CodeChef || 5 ⭐ Hackerrank(Python) || Competitive Coder || Web Development enthusiast</h3>
+<h3 align="center">2 ⭐ CodeChef || 5 ⭐ Hackerrank(Python,C) || Competitive Coder || Web Development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-lokesh&label=Profile%20views&color=0e75b6&style=flat" alt="coder-lokesh" /> </p>
 
