@@ -25,7 +25,7 @@
   <a href="https://github.com/coder-lokesh/coder-lokesh">
     <img src="python.png" alt="Logo" width="200" height="200">
     <img src="c.png" alt="Logo" width="200" height="200">
-    <img src="c++.png" alt="Logo" width="200" height="200">
+    <img src="Untitled.png" alt="Logo" width="200" height="200">
   </a></p>
 
 <h3 align="left">Connect with me:</h3>
