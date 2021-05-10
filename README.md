@@ -4,10 +4,10 @@
 
  <p align="center">
   <a href="https://www.hackerrank.com/veerasharma0000">
-    <img src="python.png" alt="Logo" width="200" height="200">
-    <img src="c.png" alt="Logo" width="200" height="200">
-   <img src="Untitled.png.png" alt="Logo" width="200" height="200">
-     <img src="30_days.png" alt="Logo" width="200" height="200">
+     <img src="python.png" alt="Logo" width="100" height="100">
+     <img src="c.png" alt="Logo" width="100" height="100">
+     <img src="Untitled.png" alt="Logo" width="100" height="100">
+     <img src="30_days.png" alt="Logo" width="100" height="100">
 
   </a></p>
 
