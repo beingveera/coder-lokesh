@@ -6,7 +6,7 @@
   <a href="https://www.hackerrank.com/veerasharma0000">
     <img src="python.png" alt="Logo" width="200" height="200">
     <img src="c.png" alt="Logo" width="200" height="200">
-    <img src="Untitled.png" alt="Logo" width="200" height="200">
+    <img href="https://hrcdn.net/community-frontend/assets/badges/cpp-739b350881.svg" x="50%" y="22" width="200" height="200" transform="translate(-13.5, 0)"></img>
     <img src="30_days.png" alt="Logo" width="200" height="200">
   </a></p>
 
