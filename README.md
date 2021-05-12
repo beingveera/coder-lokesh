@@ -6,7 +6,7 @@
   <a href="https://www.hackerrank.com/veerasharma0000">
      <img src="python.png" alt="Logo" width="100" height="100">
      <img src="c.png" alt="Logo" width="100" height="100">
-     <img src="cpp.png" alt="Logo" width="100" height="100">
+     <img src="mycpp.png" alt="Logo" width="100" height="100">
      <img src="30_days.png" alt="Logo" width="100" height="100">
 
   </a></p>
