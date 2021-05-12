@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Lokesh Sharma👋</h1>
-<h3 align="center">2 ⭐ CodeChef || 5 ⭐ Hackerrank(Python,C) || Competitive Coder || Web Development enthusiast</h3>
+<h3 align="center">2 ⭐ CodeChef || 5 ⭐ Hackerrank(Python,C,C++) || Competitive Coder || Web Development enthusiast</h3>
 
 
  <p align="center">
