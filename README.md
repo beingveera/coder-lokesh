@@ -48,10 +48,10 @@
 <code><a href="https://www.dart.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code><br>
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="https://docs.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
+<code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.raspberrypi.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
 
 
 <code><a href="https://www.html.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
