@@ -28,7 +28,8 @@
     <img src="my.png" alt="Logo" width="150" height="150">
     <img src="ElectroCode.png" alt="Logo" width="150" height="150">
     <img src="electrocode (1).png" alt="Logo" width="150" height="150">
-    <img src="Encounter-Education.png" alt="Logo" width="150" height="150">  
+    <img src="Encounter-Education.png" alt="Logo" width="150" height="150">
+   <img src="medicube.png" alt="Logo" width="150" height="150"> 
   </a></p>
   
 
