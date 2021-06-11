@@ -66,6 +66,6 @@
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 
 <br/><br/>
-![enter image description here](https://github-readme-stats.vercel.app/api?username=coder-lokesh&theme=yeblu&show_icons=true)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=coder-lokesh&theme=dark&show_icons=true)
 
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs?username=coder-lokesh&theme=onedark)
+![enter image description here](https://github-readme-stats.vercel.app/api/top-langs?username=coder-lokesh&theme=dark&show_icons=true)
