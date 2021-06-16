@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **Dynamic Programming**
 
-- 📫 How to reach me **Insta @_veera2k_**
+- 📫 How to reach me **Insta @ _veera2k_ **
 
 <p align="center">
   <a href="https://github.com/coder-lokesh/coder-lokesh">
