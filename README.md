@@ -73,6 +73,6 @@
 
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs?username=coder-lokesh&theme=dark&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coder-lokesh&theme=dark&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coder-lokesh&theme=github&count_private=true)  
 
 
