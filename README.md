@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Lokesh Sharma👋</h1>
-<h3 align="center">2 ⭐ CodeChef || 5 ⭐ Hackerrank(Python,C,C++) || Competitive Coder || Web Development enthusiast</h3>
+<h3 align="center"> 5 ⭐ Hackerrank(Python,C,C++) || Competitive Coder || Web Development enthusiast</h3>
 
 
  <p align="center">
@@ -39,7 +39,10 @@
 [<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />](https://twitter.com/lokeshs97047988)
 [<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png" />](https://www.instagram.com/_veera2k_)
 [<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" />](mailto:sharma.lokesh.222001@gmail.com)
-[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lokesh-sharma-908857193/)
+[<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />](https://www.linkedin.com/in/lokesh-sharma-908857193/)
+[<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />](https://www.hackerrank.com/veerasharma0000/)
+[<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" />](https://www.codechef.com/users/coder_lokesh)
+
 <br />
 
 ## **Technology Stack**
