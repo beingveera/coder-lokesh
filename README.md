@@ -34,12 +34,13 @@
   
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lokeshs97047988" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round-line-color.svg" alt="priyasaaketh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lokesh-sharma-908857193/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" alt="lokesh Sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/_veera2k_" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-line-color.svg" alt="coder-lokesh" height="30" width="40" /></a>
-</p>
+## Connect with **me**
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lokeshs97047988)
+[<img height="30" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_veera2k_)
+[<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sharma.lokesh.222001@gmail.com)
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lokesh-sharma-908857193/)
+<br />
 
 **Technology Stack**
 
