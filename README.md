@@ -36,13 +36,13 @@
 
 ## Connect with **me**
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lokeshs97047988)
-[<img height="30" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_veera2k_)
-[<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sharma.lokesh.222001@gmail.com)
+[<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />](https://twitter.com/lokeshs97047988)
+[<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png" />](https://www.instagram.com/_veera2k_)
+[<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" />](mailto:sharma.lokesh.222001@gmail.com)
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lokesh-sharma-908857193/)
 <br />
 
-**Technology Stack**
+## **Technology Stack**
 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
