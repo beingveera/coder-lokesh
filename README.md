@@ -7,7 +7,7 @@
      <img src="python.png" alt="Logo" width="100" height="100">
      <img src="c.png" alt="Logo" width="100" height="100">
      <img src="mycpp.png" alt="Logo" width="100" height="100">
-     <img src="30_days.png" alt="Logo" width="100" height="100">
+     <img src="days_10.png" alt="Logo" width="100" height="100">
 
   </a></p>
 
