@@ -71,14 +71,6 @@
 
 <br/><br/>
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=coder-lokesh&theme=dark&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-lokesh&theme=dark&count_private=true)
-
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs?username=coder-lokesh&theme=dark&show_icons=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coder-lokesh&theme=github&count_private=true)  
-
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
